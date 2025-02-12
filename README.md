@@ -46,7 +46,7 @@
 
 
 ### 3. Community Interaction
-- [ ]	**Upvote/Downvote 
+- [ ]	**Upvote/Downvote**
 - [ ]	**Comments with Proof:** comment on crime posts - add additional proof (mandatory)
 - [ ]	**Post Verification Score:** score based on upvotes, downvotes, verified comments.
 
